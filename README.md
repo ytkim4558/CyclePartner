@@ -12,7 +12,7 @@ CyclePartner uses OpenStreetMap. <br>
 CyclePartner는 오픈스트리트맵을 이용합니다. <br>
 
 OpenStreetMap(OSM) is a collaborative project to create a free editable map of the world. <br>
-OpenStreetMap(OSM)은 무로료 편집 가능한 세계지도를 만드는 공동 프로젝트입니다. <br>
+OpenStreetMap(OSM)은 무 편집 가능한 세계지도를 만드는 공동 프로젝트입니다. <br>
 
 OSM data includes information for routing by many modes including car, foot, bicycle and horse. <br>
 OSM 데이터에는 자동차, 보행, 자전거 및 말 등 다양한 모드의 경로정보가 포함됩니다. <br>
