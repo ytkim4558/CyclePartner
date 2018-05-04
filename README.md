@@ -29,3 +29,7 @@ And it will also have live streaming sns which displaying cyclemap. The cyclemap
 
 Anyone don't want heavy app, so some features will be made into modules. <br>
 누고도 무거운 앱을 원하지 않기 때문에, 일부 기능들은 모듈로 만들 것입니다. <br>
+
+## LICENSE <br> 라이센스
+Cycle Partner is GPLv3.0 licensed
+Cycle Partner는 GPLv3.0 라이센스를 따릅니다.
