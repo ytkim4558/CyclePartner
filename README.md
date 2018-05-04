@@ -27,5 +27,5 @@ It will have course navigation, riding course upload & download, SNS. <br>
 And it will also have live streaming sns which displaying cyclemap. The cyclemap will display rider's position. <br>
 또한 자전거맵을 표시하는 라이브 스트리밍 SNS도 있을 것입니다. 그 맵에는 라이더 위치도 표시됩니다. <br>
 
-I don't want to make heavy app, so I'm considering making some features modular. <br>
-저는 무거운 앱을 만드는 것을 원하지 않기 때문에, 일부 특징들은 모듈로 만들 것입니다. <br>
+Anyone don't want heavy app, so some features will be made into modules. <br>
+누고도 무거운 앱을 원하지 않기 때문에, 일부 특징들은 모듈로 만들 것입니다. <br>
