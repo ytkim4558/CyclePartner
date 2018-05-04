@@ -14,6 +14,15 @@ CyclePartner는 저의 첫번째 오픈 소스입니다. <br>
 CyclePartner uses OpenStreetMap. <br>
 CyclePartner는 오픈스트리트맵을 이용합니다. <br>
 
+OpenStreetMap(OSM) is a collaborative project to create a free editable map of the world. <br>
+OpenStreetMap(OSM)은 무로료 편집 가능한 세계지도를 만드는 공동 프로젝트입니다. <br>
+
+OSM data includes information for routing by many modes including car, foot, bicycle and horse. <br>
+OSM 데이터에는 자동차, 보행, 자전거 및 말 등 다양한 모드의 경로정보가 포함됩니다. <br>
+
+CycleParner uses only bicycle path information to make your app light and fast. <br>
+CyclePartner는 앱을 가볍고 빠르게 하기 위해, 그중 자전거 경로정보만을 사용할 것입니다. <br>
+
 ## What features does CyclePartner have? CyclePartner는 어떤 기능을 가질 것인가?
 It will have course navigation, riding course upload & download, SNS. <br>
 코스 안내, 라이딩 경로 업로드&다운로드, SNS 정보를 가질 것입니다. <br>
