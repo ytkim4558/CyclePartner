@@ -7,9 +7,6 @@ CyclePartner는 자전거 네비게이션 및 SNS 모바일 어플입니다. <br
 CyclePartner is intended to build a bicyle information society. <br>
 CyclePartner는 자전거 정보사회를 구축할 의도로 만들어졌습니다. <br>
 
-CyclePartner is my first opensource project. <br>
-CyclePartner는 저의 첫번째 오픈 소스입니다. <br>
-
 ## Which bicycle map does CyclePartner use? <br> CyclePartner는 어떤 자전거 지도를 이용하는가?
 CyclePartner uses OpenStreetMap. <br>
 CyclePartner는 오픈스트리트맵을 이용합니다. <br>
