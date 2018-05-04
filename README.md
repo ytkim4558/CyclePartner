@@ -28,4 +28,4 @@ And it will also have live streaming sns which displaying cyclemap. The cyclemap
 또한 자전거맵을 표시하는 라이브 스트리밍 SNS도 있을 것입니다. 그 맵에는 라이더 위치도 표시됩니다. <br>
 
 Anyone don't want heavy app, so some features will be made into modules. <br>
-누고도 무거운 앱을 원하지 않기 때문에, 일부 특징들은 모듈로 만들 것입니다. <br>
+누고도 무거운 앱을 원하지 않기 때문에, 일부 기능들은 모듈로 만들 것입니다. <br>
