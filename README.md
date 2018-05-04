@@ -1,6 +1,6 @@
 # CyclePartner
 
-## What is CyclePartner? CyclePartner는 무엇인가?
+## What is CyclePartner? <br> CyclePartner는 무엇인가?
 CyclePartner is a bicycle navigation and SNS mobile app. <br>
 CyclePartner는 자전거 네비게이션 및 SNS 모바일 어플입니다. <br>
 
@@ -10,7 +10,7 @@ CyclePartner는 자전거 정보사회를 구축할 의도로 만들어졌습니
 CyclePartner is my first opensource project. <br>
 CyclePartner는 저의 첫번째 오픈 소스입니다. <br>
 
-## Which bicycle map does CyclePartner use? CyclePartner는 어떤 자전거 지도를 이용하는가?
+## Which bicycle map does CyclePartner use? <br> CyclePartner는 어떤 자전거 지도를 이용하는가?
 CyclePartner uses OpenStreetMap. <br>
 CyclePartner는 오픈스트리트맵을 이용합니다. <br>
 
@@ -23,7 +23,7 @@ OSM 데이터에는 자동차, 보행, 자전거 및 말 등 다양한 모드의
 CycleParner uses only bicycle path information to make your app light and fast. <br>
 CyclePartner는 앱을 가볍고 빠르게 하기 위해, 그중 자전거 경로정보만을 사용할 것입니다. <br>
 
-## What features does CyclePartner have? CyclePartner는 어떤 기능을 가질 것인가?
+## What features does CyclePartner have? <br> CyclePartner는 어떤 기능을 가질 것인가?
 It will have course navigation, riding course upload & download, SNS. <br>
 코스 안내, 라이딩 경로 업로드&다운로드, SNS 정보를 가질 것입니다. <br>
 
